@@ -1,5 +1,11 @@
 from qiskit import QuantumCircuit
-qc = QuantumCircuit(2)
+from qiskit_aer import AerSimulator
+
+qc = QuantumCircuit(3,3)
 qc.h(0)
 qc.h(1)
-print(qc.draw())
+qc.h(2)
+qc.measure(range(3), range(3))
+simulator=AerSimulator()
+result=simulator.run(qc,shots=1000, seed_simulator=42).result()
+counts=result.get_counts()
