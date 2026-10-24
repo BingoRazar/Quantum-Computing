@@ -1,0 +1,8 @@
+Qubits: 3
+Grover iterations: 2
+Ideal marked-state probability: 0.9453124999999964
+Circuit depth: 22
+Gate count: 42
+Gate counts: OrderedDict({'h': 23, 'x': 12, 'ccx': 4, 'measure': 3})
+Counts: {'111': 3897, '001': 25, '010': 26, '101': 41, '110': 23, '011': 30, '000': 33, '100': 21}
+Marked-state frequency: 0.951416015625

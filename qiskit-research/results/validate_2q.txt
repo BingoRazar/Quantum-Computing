@@ -1,0 +1,7 @@
+Ideal probabilities:
+{np.str_('00'): np.float64(1.5955770627550177e-68), np.str_('01'): np.float64(5.577060207443597e-34), np.str_('10'): np.float64(9.071053470133364e-35), np.str_('11'): np.float64(0.9999999999999991)}
+
+Finite-shot counts:
+{'11': 4096}
+
+Frequency of marked state: 1.0000
