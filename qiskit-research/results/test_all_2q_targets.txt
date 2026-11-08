@@ -1,0 +1,8 @@
+Testing all 2-qubit marked states
+
+Target: 00 | Success probability: 1.000000
+Target: 01 | Success probability: 1.000000
+Target: 10 | Success probability: 1.000000
+Target: 11 | Success probability: 1.000000
+
+All 2-qubit target tests passed!
