@@ -1,0 +1,14 @@
+Qubits: 2
+Marked state: 10
+Iterations: 1
+Success probability: 1.000000
+
+Qubits: 3
+Marked state: 101
+Iterations: 2
+Success probability: 0.945312
+
+Qubits: 4
+Marked state: 0110
+Iterations: 3
+Success probability: 0.961319
