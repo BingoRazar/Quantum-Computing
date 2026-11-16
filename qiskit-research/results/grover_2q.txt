@@ -1,0 +1,20 @@
+STAGE 1: After Hadamard gates
+[0.5+0.j 0.5+0.j 0.5+0.j 0.5+0.j]
+
+STAGE 2: After oracle
+[ 0.5+0.j  0.5+0.j  0.5+0.j -0.5+0.j]
+
+STAGE 3: After diffusion
+[-1.26316153e-34+0.j -2.36158002e-17+0.j -9.52420783e-18+0.j
+ -1.00000000e+00+0.j]
+Number of qubits: 2
+Circuit depth: 7
+Total gate count: 12
+Gate counts by type: OrderedDict({'h': 6, 'x': 4, 'cz': 2})
+
+Circuit diagram:
+     ┌───┐   ┌───┐┌───┐   ┌───┐┌───┐
+q_0: ┤ H ├─■─┤ H ├┤ X ├─■─┤ X ├┤ H ├
+     ├───┤ │ ├───┤├───┤ │ ├───┤├───┤
+q_1: ┤ H ├─■─┤ H ├┤ X ├─■─┤ X ├┤ H ├
+     └───┘   └───┘└───┘   └───┘└───┘
