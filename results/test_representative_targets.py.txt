@@ -1,0 +1,14 @@
+Testing 3-qubit targets
+Target: 000 | Success probability: 0.945312
+Target: 001 | Success probability: 0.945312
+Target: 101 | Success probability: 0.945312
+Target: 111 | Success probability: 0.945312
+
+Testing 4-qubit targets
+Target: 0000 | Success probability: 0.961319
+Target: 0001 | Success probability: 0.961319
+Target: 0110 | Success probability: 0.961319
+Target: 1011 | Success probability: 0.961319
+Target: 1111 | Success probability: 0.961319
+
+All representative target tests passed!
