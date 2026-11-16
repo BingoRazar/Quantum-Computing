@@ -1,0 +1,8 @@
+test_iteration_count_changes_probability (tests.test_grover.TestGrover.test_iteration_count_changes_probability) ... ok
+test_oracle_marks_intended_state (tests.test_grover.TestGrover.test_oracle_marks_intended_state) ... ok
+test_probability_normalisation (tests.test_grover.TestGrover.test_probability_normalisation) ... ok
+test_representative_targets (tests.test_grover.TestGrover.test_representative_targets) ... ok
+test_zero_iterations (tests.test_grover.TestGrover.test_zero_iterations) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.091s
