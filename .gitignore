@@ -1,18 +1,26 @@
-
-# Python virtual environment
+# Virtual environments
 .venv/
 venv/
+env/
 
 # Python cache
 __pycache__/
 *.py[cod]
+*$py.class
 
-# Jupyter
-.ipynb_checkpoints/
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
 
-# VS Code
+# IDE settings
 .vscode/
 
 # Operating system
 .DS_Store
 Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+# Python package metadata
+*.egg-info/
